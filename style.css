@@ -1,0 +1,60 @@
+#back {
+  background-color: #bbbbf1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+section div.all {
+  margin-left: 21em;
+  margin-top: 7em;
+}
+
+section div.left {
+  width: 20em;
+  height: 25em;
+  background-color: white;
+  float: left;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+section div.right {
+  width: 20em;
+  height: 25em;
+  background-color: #3b65a3;
+  float: left;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.right .pclass {
+  color: white;
+  padding-left: 15px;
+  float: left;
+  font-family: 'Amiri';
+  font-size: 17px;
+}
+
+.right .form2class {
+  width: 290px;
+  height: 28px;
+  background-color: #6e8dc0;
+  border: none;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.right .button {
+  background-color: #1daf42;
+  width: 18em;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  margin-top: 3em;
+  margin-left: 1em;
+  padding-top: 0.5px;
+}
+/*# sourceMappingURL=style.css.map */
